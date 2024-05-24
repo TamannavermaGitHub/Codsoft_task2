@@ -37,10 +37,12 @@ This project is a simple yet fully functional calculator built using HTML, CSS, 
 ## Screenshots
 
 ### Light Mode
-![Light Mode](screenshots/light-mode.png)
+![Light Mode](![light_mode](https://github.com/itstamannaverma/calculator-with-darkmode/assets/120435914/b2a35b41-211b-4d6e-a880-f4d43c9c5e67)
+
 
 ### Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
+![Dark Mode](![Dark_mode](https://github.com/itstamannaverma/calculator-with-darkmode/assets/120435914/5f0683a8-569c-4cf1-8260-87d73da55ded)
+
 
 ## Acknowledgments
 
